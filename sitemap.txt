@@ -11,3 +11,6 @@ https://crackychan.org/pasta3
 https://crackychan.org/pasta3.txt
 https://crackychan.org/robots.txt
 https://crackychan.org/sitemap.txt
+https://herwords.crackychan.org/
+https://herwords.crackychan.org/robots.txt
+https://herwords.crackychan.org/sitemap.txt
