@@ -9,4 +9,4 @@
 /galleries/*?SA https://cracky-chan.tumblr.com/galleries/:splat 308
 /galleries/*?DA https://cracky-chan.tumblr.com/galleries/:splat 308
 /galleries/*?ND https://cracky-chan.tumblr.com/galleries/:splat 308
-/galleries/* https://cracky-chan.tumblr.com/galleries/:splat 308
+#/galleries/* https://cracky-chan.tumblr.com/galleries/:splat 308
